@@ -1,0 +1,1 @@
+Place text images in this folder!
